@@ -1,1 +1,2 @@
+language: generic
 script: ./build/compile.sh
